@@ -1,0 +1,5 @@
+Este es un archivo de texto plano que sirve como ejemplo para una practica que estoy realizando
+
+Solo contiene texto plano
+
+Mi nombre es Gabriel. Y nací en México.
